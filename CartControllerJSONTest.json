@@ -1,0 +1,25 @@
+{
+  "email": "g_ikezian@fanshaweonline.ca",
+  "selections": [
+    {
+      "qty": 1,
+      "product": {
+        "id": "",
+        "brandId": 0,
+        "brand": {
+          "id": 0,
+          "name": "Microsoft",
+          "timer": ""
+        },
+        "timer": "",
+        "productName": "HALO: CE",
+        "graphicName": "haloce.png",
+        "costPrice": 1.99,
+        "msrp": 0.99,
+        "qtyOnHand": 1,
+        "qtyOnBackOrder": 0,
+        "description": "Super-soldier John-117, Master Chief of the United Nations Space Command, must battle a genocidal alien race known as the Covenant following his violent crash-landing on Halo, an ancient and mysterious ring-world."
+      }
+    }
+  ]
+}
