@@ -43,7 +43,7 @@ export default {
     const route = useRoute();
     let state = reactive({
       status: "",
-      email: "g_ikezian@fanshaweonline.ca",
+      email: "your@mail.ca",
       password: "abc123",
     });
     const isValidEmail = (val) => {

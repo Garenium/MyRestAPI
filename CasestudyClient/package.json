@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Quasar Project",
   "productName": "CasestudyClient App",
-  "author": "Garen Ikezian <g_ikezian@fanshaweonline.ca>",
+  "author": "Your Name <youremail@mail.ca>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
